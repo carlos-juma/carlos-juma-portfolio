@@ -13,6 +13,7 @@ export const projects: Project[] = [
     href: 'https://www.dripanomicstutorials.com/',
     year: '2024',
   },
+  
   {
     title: 'Creative Home Projects',
     description: 'A marketing site for a modular homes construction company',
