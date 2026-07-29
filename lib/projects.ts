@@ -22,7 +22,7 @@ export const projects: Project[] = [
 
   {
     title: 'MG Auto Care',
-    description: 'MArketing site for an auto repair shop',
+    description: 'Marketing site for an auto repair shop',
     href: 'https://mg-auto-six.vercel.app/',
     year: '2025',
   },
